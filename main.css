@@ -1,0 +1,52 @@
+div {
+	background-color: #f5ff9e;
+}
+
+.header {
+	font-family: 'Tahoma', sans-serif;
+	font-size: 48px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-right: 15px;
+}
+
+.deckline {
+	font-family: 'Doppio One', sans-serif;
+	font-size: 18px;
+	margin-right: 15px;
+}
+
+.byline {
+	font-family: 'Doppio One', sans-serif;
+	font-size: 14px;
+	color: #007ddb;
+	font-weight: bold;
+	margin-right: 15px;
+}
+
+#story_text {
+	font-size: 14px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: 15px;
+	font-family: 'Saira Semi Condensed', sans-serif;
+	font-size: 18px;
+}
+
+a {
+	color: #0f65ef;
+}
+
+a:hover {
+	color: #093c8f;
+		}
+
+.subheads {
+	color: blue;
+}
+
+.caption {
+	margin-left: 15px;
+	color: gray;
+}
+
